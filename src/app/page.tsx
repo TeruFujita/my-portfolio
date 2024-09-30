@@ -6,7 +6,7 @@ export default function Home() {
   return (
   <div>
     <header>
-      <Image src="/home/naotelu/projects/technova-my-portfolio/src/app/public/49757C78-2B04-4F99-90AE-330714DB9692.jpg" alt="Profile Icon" width={50} height={50} />
+      <Image src="/my_icon.png" alt="Profile Icon" width={50} height={50} />
     <div className="object-right-top">
     <button className="custom-button">WORK</button>
    <button className="custom-button">PROFILE</button>
